@@ -1,0 +1,7 @@
+{
+  "task": "url-shortener",
+  "configSource": "env",
+  "stack": {
+    "type": "docker"
+  }
+}
